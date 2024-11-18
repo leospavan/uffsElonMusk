@@ -1,15 +1,16 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Elon Musk é um empresário e inovador conhecido por fundar e liderar empresas revolucionárias como Tesla, SpaceX, Neuralink e The Boring Company. Ele é um defensor da energia sustentável, exploração espacial e avanços em inteligência artificial e transporte. Musk é uma figura influente no mundo da tecnologia e empreendedorismo, constantemente impulsionando os limites da inovação."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Elon Musk possui graduação em Economia e Física, mas não concluiu o doutorado porque se dedicou ao empreendedorismo no campo da internet e tecnologia."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = """A Neuralink, fundada por Elon Musk, desenvolve tecnologias de interface cérebro-computador, permitindo a comunicação direta entre o cérebro humano e dispositivos. A empresa busca tratar condições neurológicas e, no longo prazo, possibilitar uma simbiose entre humanos e máquinas. Seu impacto pode revolucionar a forma como interagimos com a tecnologia, avançando na neurociência e na inteligência artificial. 
+    Tesla Como CEO da Tesla, Musk tem desempenhado um papel importante na integração de inteligência artificial (IA) e aprendizado de máquina em veículos autônomos. A Tesla usa algoritmos complexos para suas funções de direção autônoma, como o sistema Autopilot. Musk tem defendido publicamente o uso da IA para criar veículos mais seguros, enquanto também levantou preocupações sobre o controle ético da IA."""
     return mensagem
 
 
