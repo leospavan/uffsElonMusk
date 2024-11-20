@@ -15,12 +15,15 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = """" - Hyperloops: Em 2013, Musk publicou um artigo descrevendo o Hyperloop, uma proposta de transporte terrestre que seria mais rápido, prático e sustentável do que o metrô. O Hyperloop funcionaria dentro de um tubo com baixa pressão e levitação magnética, permitindo que os veículos alcançassem altas velocidades.
+    - Inteligência artificial: Musk acredita que a inteligência artificial com capacidade humana vai acontecer antes do que se imagina e defende uma legislação específica para regular os sistemas de IA."""
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = """ - Quando Ford fez carros baratos e confiáveis, disseram: 'O que há de errado com um cavalo?' Foi uma grande aposta e funcionou.
+    - O primeiro passo é estabelecer que algo é possível; então a probabilidade acontecerá.
+    - Acho que é possível para pessoas comuns escolherem ser extraordinárias. """
     return mensagem
 
 
